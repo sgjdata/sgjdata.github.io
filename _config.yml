@@ -29,6 +29,8 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-gist
+  
   
 # Google services
 google_analytics: UA-160651314-1 
